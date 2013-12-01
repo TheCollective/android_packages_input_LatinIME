@@ -23,7 +23,7 @@
     <color name="highlight_color_gb">#FFFCAE00</color>
     <color name="typed_word_color_gb">@android:color/white</color>
     <color name="highlight_translucent_color_gb">#99FCAE00</color>
-    <color name="key_text_color_gb">@android:color/white</color>
+    <color name="key_text_color_gb">#ffff3000</color>
     <color name="key_text_shadow_color_gb">#BB000000</color>
     <color name="key_text_inactivated_color_gb">#66E0E4E5</color>
     <color name="key_hint_letter_color_gb">#80000000</color>
@@ -33,10 +33,10 @@
     <color name="spacebar_text_color_gb">#FFC0C0C0</color>
     <color name="spacebar_text_shadow_color_gb">#80000000</color>
     <color name="gesture_floating_preview_color_gb">#C0000000</color>
-    <!-- Color resources for IceCreamSandwich theme. Base color = ff3000 -->
+    <!-- Color resources for IceCreamSandwich theme. Base color #ffff3000 -->
     <!-- android:color/holo_blue_light value is #FFff3000 -->
-    <color name="highlight_color_ics">#FFff3000</color>
-    <color name="typed_word_color_ics">#D8ff3000</color>
+    <color name="highlight_color_ics">#ffff3000</color>
+    <color name="typed_word_color_ics">#ffff3000</color>
     <color name="suggested_word_color_ics">#B2ff3000</color>
     <color name="highlight_translucent_color_ics">#99ff3000</color>
     <color name="key_text_shadow_color_ics">@android:color/transparent</color>
@@ -66,6 +66,6 @@
     <color name="emoji_key_background_color">#00000000</color>
     <color name="emoji_key_pressed_background_color">#30FFFFFF</color>
 
-    <color name="key_text_color_normal_ics">@android:color/white</color>
+    <color name="key_text_color_normal_ics">#ffff3000</color>
     <color name="key_text_color_functional_ics">@android:color/white</color>
 </resources>
