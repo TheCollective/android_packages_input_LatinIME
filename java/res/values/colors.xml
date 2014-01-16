@@ -49,7 +49,7 @@
     <color name="spacebar_text_shadow_color_ics">#80000000</color>
     <color name="gesture_floating_preview_color_ics">#C0000000</color>
     <!-- Color resources for KLP theme. Base color = F0F0F0 -->
-    <color name="highlight_color_holo">#FFF0F0F0</color>
+    <color name="highlight_color_holo">#FFFF3000</color>
     <color name="typed_word_color_holo">#D8F0F0F0</color>
     <color name="suggested_word_color_holo">#B2F0F0F0</color>
     <color name="highlight_translucent_color_holo">#99E0E0E0</color>
